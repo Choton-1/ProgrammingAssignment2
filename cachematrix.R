@@ -36,7 +36,3 @@ cacheSolve <- function(x, ...) {
   j
 }
 
-
-x <- matrix(1:9, nrow = 3, byrow = TRUE)
-makeCacheMatrix(x = x)
-cacheSolve$getInverse
